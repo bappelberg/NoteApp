@@ -46,11 +46,9 @@ get_file_path(): Gets the absolute file path of the notes file from the user or 
 Contributing
 Contributions to this project are welcome! If you have any bug fixes, feature suggestions, or improvements, feel free to create a pull request or open an issue in the repository.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Author
 
-Name: [Your Name]
-GitHub: [Your GitHub Profile URL]
+Name: Benjamin Appelberg
+GitHub: https://github.com/bappelberg/NoteApp/
+
 Feel free to customize the README file with your project-specific details and update the contact information with your own. This README serves as the documentation and landing page for your NoteApp project, providing essential information to users and potential contributors.
